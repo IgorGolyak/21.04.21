@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\V.S\V.S\obj\Debug\V.S.csprojAssemblyReference.cache
+C:\Users\golya\source\repos\V.S\V.S\obj\Debug\V.S.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\V.S\V.S\bin\Debug\V.S.exe.config
+C:\Users\golya\source\repos\V.S\V.S\bin\Debug\V.S.exe
+C:\Users\golya\source\repos\V.S\V.S\bin\Debug\V.S.pdb
+C:\Users\golya\source\repos\V.S\V.S\obj\Debug\V.S.exe
+C:\Users\golya\source\repos\V.S\V.S\obj\Debug\V.S.pdb
